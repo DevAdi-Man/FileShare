@@ -53,6 +53,6 @@ A **high-performance, secure, and local-first file sharing app** built with **Re
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/file-sharing-app.git
+git clone git@github.com:DevAdi-Man/FileShare.git
 cd file-sharing-app
 npm install
